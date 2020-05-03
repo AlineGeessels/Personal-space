@@ -6,9 +6,9 @@ menu: main
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
 
 ## How to use?
-
+Test 1
 ### Managing content with [Forestry](https://forestry.io)
-
+Test 2
 If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
